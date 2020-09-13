@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
 
+//This class represents each item in the navigation bar
 class NavItem extends Component {
     render() {
         return (
