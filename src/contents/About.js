@@ -9,7 +9,7 @@ class About extends Component {
 
                 <h4>My name is <h1 id="name-title">Dharina Hanumunthadu,</h1> I'm a 4th year undergraduate student in Software Engineering at Carleton University, graduating in December 2020.</h4>
 
-                <h4>My resume can be found <a id="aLink" href="https://drive.google.com/file/d/1hrycv84KI6naZQ7Eu3LfnIGVhJU3igg-/view?usp=sharing" target="_blank">here</a>.</h4>
+                <h4>My resume can be found <a id="aLink" href="https://drive.google.com/file/d/1hrycv84KI6naZQ7Eu3LfnIGVhJU3igg-/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.</h4>
 
                 <br></br>
 
