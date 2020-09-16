@@ -10,6 +10,7 @@ import Home from './contents/Home'
 import Contact from './contents/Contact'
 import About from './contents/About'
 import Education from './contents/Education'
+import Experience from './contents/Experience'
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
         </Route>
         <Route exact path="/education">
           <Education />
+        </Route>
+        <Route exact path="/experience">
+          <Experience />
         </Route>
       </div>
     </Router>

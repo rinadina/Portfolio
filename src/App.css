@@ -2,7 +2,7 @@
 :root{
 --sidebar-flex:1.5;
 --condiv-flex:6;
---fontsize-p:1.0rem;
+--fontsize-p:1.1rem;
 --fontsize-nav:1.6rem;
 --typing-font:3rem;
 }
@@ -15,7 +15,7 @@ padding: 0;
 
 body
 {
-font-family: 'Verdana';
+font-family: 'Raleway';
 }
 
 .App
