@@ -173,7 +173,7 @@ class Experience extends Component {
                 <br></br>
 
                 <p id="name-title">
-                    If you’d like to know more about my work experience as well, reach out to me!
+                    If you’d like to know more abgiout my work experience as well, reach out to me!
                 </p>
 
 
